@@ -31,6 +31,6 @@ tar -xvf archive
 
 *Lien dataqet Illumina*: A venir.  
 
-Pour ce qui concerne l'aspect bio-informatique, n'hésitez pas à me contacter au <hadrien.regue@univ-lyon1.fr>
+Pour ce qui concerne l'aspect bio-informatique, n'hésitez pas à me contacter au mail suivant : <hadrien.regue@univ-lyon1.fr>
 
 
