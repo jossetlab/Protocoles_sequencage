@@ -18,7 +18,7 @@ Vous trouverez également ici toutes les ressources associées aux WEBINAR organ
 
 # Dataset de test pour drylab Artic.
 
-*Lien dataset ONT*:[ARTIC-ONT](https://zenodo.org/record/4486528#.YBiAjnnjJPY)    
+*Lien dataset ONT*: [ARTIC-ONT](https://zenodo.org/record/4486528#.YBiAjnnjJPY)    
 Note: Les fichiers sont archivés.  
 Le dataset contient:  
 -une partie des fast5 du run.  
@@ -29,7 +29,11 @@ A décompresser avec la commande:
 tar -xvf archive
 ```
 
-*Lien dataqet Illumina*: A venir.  
+*Lien dataqet Illumina*: [ARTIC-ILLUMINA](https://zenodo.org/record/4494344#.YB02xnnjJPY) 
+L'ensemble des fastq sont archivés, et à décompresser avec la commande:
+```
+tar -xvf archive
+```
 
 Pour ce qui concerne l'aspect bio-informatique, n'hésitez pas à me contacter au mail suivant : <hadrien.regue@univ-lyon1.fr>
 
