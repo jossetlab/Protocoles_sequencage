@@ -29,7 +29,7 @@ A décompresser avec la commande:
 tar -xvf archive
 ```
 
-*Lien dataqet Illumina*: [ARTIC-ILLUMINA](https://zenodo.org/record/4494344#.YB02xnnjJPY) 
+*Lien dataqet Illumina*: [ARTIC-ILLUMINA](https://zenodo.org/record/4494344#.YB02xnnjJPY)   
 L'ensemble des fastq sont archivés, et à décompresser avec la commande:
 ```
 tar -xvf archive
